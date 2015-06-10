@@ -9,12 +9,15 @@ Adapted for Unity 5 and customized.
 
 Option 1)
  
-  Moving: Arrow keys
-  Shooting: Space bar
+  To move: Arrow keys
+  
+  To shoot: Space bar
   
 Option 2)
  
-  Moving: W (up), A (left), D(right), S(down)
-  Shooting: Mouse left click
+  To move: W (up), A (left), D(right), S(down)
   
+  To shoot: Mouse left click
+  
+
 Enjoy!
