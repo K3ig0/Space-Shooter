@@ -5,7 +5,15 @@ Original project (Unity 4): http://unity3d.com/learn/tutorials/projects/space-sh
 Adapted for Unity 5 and customized.
 
 
-# Controls:
+## Online Preview:
+
+http://htmlpreview.github.io/?https://github.com/K3ig0/Space-Shooter/blob/master/BUILDS/BUILDS.html  
+
+Adjusting the tab browser game (may be need click outside the game area):  
+Reduce: "Ctrol" + "-"  
+Full Screen: "F11"  
+
+## Controls:
 
 Option 1)
  
